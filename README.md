@@ -1,3 +1,3 @@
 # Optimus
 First Git Repository
-Author - Devanshi Sharma
+Author - Devanshi (OptimusInfo)
